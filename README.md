@@ -37,11 +37,10 @@
 - Website Url 
 - pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_100daysofcodechallenge-javascript-udemy-activity-6850456691826311168-qOB6)
 - Live Url
-- Pooja-saini467 (https://user-images.githubusercontent.com/90523453/155180775-e8e3c08a-fdc7-4ee1-8289-d869a6ffd77e.png)
+- Pooja-saini467 (https://pooja-saini467.github.io/icons/)
 
 - Twitter
--  @Pooja96490259 https://twitter.com/home
+-  @Pooja96490259 (https://twitter.com/home)
 
 
 
-It's single page .it's complete responsive.
