@@ -25,7 +25,7 @@
 ## Links
 
 - Video Link
-- 
+- https://drive.google.com/file/d/1UsIrv89F0edfy_L5RV7zi3MWZ2TVTeQR/view?usp=sharing
 
 ## My Process
 ## Build With
@@ -36,7 +36,7 @@
 ## Author
 - Website Url 
 - pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_100daysofcodechallenge-javascript-udemy-activity-6850456691826311168-qOB6)
-- Live Url (https://drive.google.com/file/d/1UsIrv89F0edfy_L5RV7zi3MWZ2TVTeQR/view?usp=sharing)
+- Live Url (https://pooja-saini467.github.io/icons/)
 - Pooja-saini467 (https://pooja-saini467.github.io/icons/)
 
 - Twitter
