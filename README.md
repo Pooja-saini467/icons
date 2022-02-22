@@ -36,7 +36,7 @@
 ## Author
 - Website Url 
 - pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_100daysofcodechallenge-javascript-udemy-activity-6850456691826311168-qOB6)
-- Live Url (https://pooja-saini467.github.io/icons/)
+- Live Url 
 - Pooja-saini467 (https://pooja-saini467.github.io/icons/)
 
 - Twitter
