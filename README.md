@@ -27,9 +27,7 @@
 https://user-images.githubusercontent.com/90523453/155206579-d6776308-01fc-4e6c-9e39-f26108877eef.mp4
 
 
-## Live Links
-
-- Live Url 
+## Live Links 
 - Pooja-saini467 (https://pooja-saini467.github.io/icons/)
 
 
